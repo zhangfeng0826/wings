@@ -1,0 +1,4 @@
+[submodule "opmm"]
+	path = opmm
+	url = https://github.com/KnowledgeCaptureAndDiscovery/WINGS-OPMW-Mapper
+	branch = master
