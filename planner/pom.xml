@@ -11,8 +11,8 @@
 	<parent>
 		<groupId>edu.isi.wings</groupId>
 		<artifactId>wings-core</artifactId>
-		<version>4.1-SNAPSHOT</version>
-		<relativePath>../core/pom.xml</relativePath>
+		<version>5.0.0</version>
+		<relativePath>../pom.xml</relativePath>
 	</parent>
 
 	<properties>
